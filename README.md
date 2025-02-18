@@ -64,6 +64,8 @@ Se generarán visualizaciones para responder a las siguientes preguntas:
 - Proporción de clientes con diferentes tipos de tarjetas de fidelidad.
 - Distribución de clientes por estado civil y género.
 
+### *Fase 3 (BONUS): Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo*
+- Analizar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes.
 
 ## 🚀 Cómo Ejecutar el Proyecto
 1. Clona este repositorio o descarga los archivos necesarios.
@@ -77,9 +79,7 @@ Se generarán visualizaciones para responder a las siguientes preguntas:
 
 
 ## 📈 Mejoras 
-### *Fase 3 (BONUS): Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo*
-- Analizar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes.
-- Aplicar una prueba estadística adecuada para evaluar estas diferencias.
+- Aplicar una prueba estadística adecuada para evaluar estas diferencias en la fase 3 del proyecto.
 
 
 ## 👩🏻‍💻 Autora
