@@ -14,12 +14,12 @@ Este proyecto tiene como objetivo analizar el comportamiento de los clientes den
 
 
 ## Hallazgos del Análisis
-![Distribución de vuelos reservados por mes.](images/Pregunta 1.jpg)
-![Relación entre distancia y puntos acumulados.](images/Pregunta 2.jpg)
-![Distribución de clientes por provincia/estado.](images/Pregunta 3.jpg)
-![Comparación de salario promedio por nivel educativo.](images/Pregunta 4.jpg)
-![Proporción de clientes según tipo de tarjeta de lealtad.](images/Pregunta 5.jpg)
-![Distribución de clientes según estado civil y género.](images/Pregunta 6.jpg)
+![Distribución de vuelos reservados por mes.](Images/Pregunta%201.jpg)
+![Relación entre distancia y puntos acumulados.](Images/Pregunta%202.jpg)
+![Distribución de clientes por provincia/estado.](Images/Pregunta%203.jpg)
+![Comparación de salario promedio por nivel educativo.](Images/Pregunta%204.jpg)
+![Proporción de clientes según tipo de tarjeta de lealtad.](Images/Pregunta%205.jpg)
+![Distribución de clientes según estado civil y género.](Images/Pregunta%206.jpg)
 
 
 ## 📉 Datos Utilizados
