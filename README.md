@@ -6,8 +6,8 @@ Este proyecto tiene como objetivo analizar el comportamiento de los clientes den
 
 ## 🛠️ Tecnologías Utilizadas
 - **Python**: Lenguaje de programación utilizado para realizar el procesamiento y análisis de datos.
-      - **Pandas, NumPy**: Librería de Python utilizada para la manipulación y limpieza de los datos.
-      - **Matplotlib, Seaborn**: Librerías de Python utilizadas para crear visualizaciones.
+   - **Pandas, NumPy**: Librería de Python utilizada para la manipulación y limpieza de los datos.
+   - **Matplotlib, Seaborn**: Librerías de Python utilizadas para crear visualizaciones.
 - **Jupyter Notebook**: Para análisis exploratorio y visualización.
 - **CSV**: Manejo de datos proporcionados.
 - **Git Hub:** Para el control de versiones.
